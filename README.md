@@ -1,0 +1,1 @@
+### This repository is for logging the process of developing a tool to convert GridLAB-D files to OpenDSS using several online tools. The final results will in a different repository. A link will be posted here.

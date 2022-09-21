@@ -1,0 +1,65 @@
+\BOOKMARK [1][-]{section.1}{Fall 2020}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{objective}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{outline}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{procedures}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{parameters}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Data}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{results}{section.1}% 7
+\BOOKMARK [1][-]{section.2}{Winter 2021}{}% 8
+\BOOKMARK [2][-]{subsection.2.1}{objective}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.2}{outline}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{procedures}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.4}{parameters}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.5}{observations}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.6}{data}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.7}{results}{section.2}% 15
+\BOOKMARK [1][-]{section.3}{Spring 2021}{}% 16
+\BOOKMARK [2][-]{subsection.3.1}{objective}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.2}{outline}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.3}{procedures}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.4}{parameters}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.5}{observations}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.6}{debugging}{section.3}% 22
+\BOOKMARK [3][-]{subsubsection.3.6.1}{Related links}{subsection.3.6}% 23
+\BOOKMARK [2][-]{subsection.3.7}{Water Heater Dynamic Driving Parameters}{section.3}% 24
+\BOOKMARK [2][-]{subsection.3.8}{Heating Element Capacity}{section.3}% 25
+\BOOKMARK [2][-]{subsection.3.9}{Commented commands by GLD folks}{section.3}% 26
+\BOOKMARK [2][-]{subsection.3.10}{Water Heater Source Code Structure}{section.3}% 27
+\BOOKMARK [2][-]{subsection.3.11}{Errors Summary}{section.3}% 28
+\BOOKMARK [2][-]{subsection.3.12}{Questions}{section.3}% 29
+\BOOKMARK [3][-]{subsubsection.3.12.1}{Heating Element Operation Principle in HPWH}{subsection.3.12}% 30
+\BOOKMARK [2][-]{subsection.3.13}{How does a Heat Pump Water-Heater work?}{section.3}% 31
+\BOOKMARK [2][-]{subsection.3.14}{Coefficient of Performance \(CoP\)}{section.3}% 32
+\BOOKMARK [1][-]{section.4}{Summer 2021}{}% 33
+\BOOKMARK [1][-]{section.5}{Fall 2021}{}% 34
+\BOOKMARK [2][-]{subsection.5.1}{Coefficient of Performance: V1}{section.5}% 35
+\BOOKMARK [2][-]{subsection.5.2}{Coefficient of Performance: V2}{section.5}% 36
+\BOOKMARK [2][-]{subsection.5.3}{October 12}{section.5}% 37
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Testing}{subsection.5.3}% 38
+\BOOKMARK [3][-]{subsubsection.5.3.2}{EnergyTake and Watts}{subsection.5.3}% 39
+\BOOKMARK [3][-]{subsubsection.5.3.3}{Data Used for Calculations}{subsection.5.3}% 40
+\BOOKMARK [2][-]{subsection.5.4}{Oct 19}{section.5}% 41
+\BOOKMARK [2][-]{subsection.5.5}{Oct 26}{section.5}% 42
+\BOOKMARK [2][-]{subsection.5.6}{Nov 16}{section.5}% 43
+\BOOKMARK [3][-]{subsubsection.5.6.1}{Data Recorded}{subsection.5.6}% 44
+\BOOKMARK [3][-]{subsubsection.5.6.2}{EnergyTake \046 Energy\137in}{subsection.5.6}% 45
+\BOOKMARK [3][-]{subsubsection.5.6.3}{Linear line fitting}{subsection.5.6}% 46
+\BOOKMARK [3][-]{subsubsection.5.6.4}{COP}{subsection.5.6}% 47
+\BOOKMARK [3][-]{subsubsection.5.6.5}{Relationship between Power Consumption \(W\) and EnergyTake \(Wh\)}{subsection.5.6}% 48
+\BOOKMARK [3][-]{subsubsection.5.6.6}{HPWH Idle Losses}{subsection.5.6}% 49
+\BOOKMARK [3][-]{subsubsection.5.6.7}{Power Consumption \(W\) and EnergyTake \(Wh\) Validation Test}{subsection.5.6}% 50
+\BOOKMARK [3][-]{subsubsection.5.6.8}{HPWH Idle Losses Validation Test}{subsection.5.6}% 51
+\BOOKMARK [3][-]{subsubsection.5.6.9}{EnergyTake as a function of Water Draw Volume}{subsection.5.6}% 52
+\BOOKMARK [3][-]{subsubsection.5.6.10}{Testing}{subsection.5.6}% 53
+\BOOKMARK [1][-]{section.6}{Winter 2022}{}% 54
+\BOOKMARK [2][-]{subsection.6.1}{GridLAB-D Model Validation}{section.6}% 55
+\BOOKMARK [3][-]{subsubsection.6.1.1}{HPWH Water Demand Behavior}{subsection.6.1}% 56
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Idle Losses}{subsection.6.1}% 57
+\BOOKMARK [3][-]{subsubsection.6.1.3}{Heating Sources Switching}{subsection.6.1}% 58
+\BOOKMARK [3][-]{subsubsection.6.1.4}{Data Samples}{subsection.6.1}% 59
+\BOOKMARK [1][-]{section.7}{Summer 2022}{}% 60
+\BOOKMARK [2][-]{subsection.7.1}{Problem Statement}{section.7}% 61
+\BOOKMARK [2][-]{subsection.7.2}{Objectives}{section.7}% 62
+\BOOKMARK [2][-]{subsection.7.3}{Tools to be Used}{section.7}% 63
+\BOOKMARK [2][-]{subsection.7.4}{Processing Steps}{section.7}% 64
+\BOOKMARK [3][-]{subsubsection.7.4.1}{Step 1: Edit glm Files}{subsection.7.4}% 65

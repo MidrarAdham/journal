@@ -1,0 +1,62 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Power and Water Demand vs Time (un-controlled)\relax }}{7}{figure.caption.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Power and Water Demand vs Time (controlled)\relax }}{14}{figure.caption.5}%
+\contentsline {figure}{\numberline {3}{\ignorespaces HPWH object in GLD does not respond to specified setpoints\relax }}{17}{figure.caption.6}%
+\contentsline {figure}{\numberline {4}{\ignorespaces EWH object in GLD responds properly to specified setpoints\relax }}{18}{figure.caption.7}%
+\contentsline {figure}{\numberline {5}{\ignorespaces source:\href {https://inukiengineering.com/heat-pump-water-heaters/}{nukiengineering.com}\relax }}{22}{figure.caption.8}%
+\contentsline {figure}{\numberline {6}{\ignorespaces \gls {hpwh} COP: 20 Gallon Water Draw\relax }}{26}{figure.caption.9}%
+\contentsline {figure}{\numberline {7}{\ignorespaces \gls {hpwh} COP vs Time: Vacation Mode Recovery\relax }}{32}{figure.caption.10}%
+\contentsline {figure}{\numberline {8}{\ignorespaces \gls {hpwh} COP vs EnergyTake: Vacation Mode Recovery\relax }}{33}{figure.caption.11}%
+\contentsline {figure}{\numberline {9}{\ignorespaces CTA-2045 EnergyTake Definition\relax }}{41}{figure.caption.12}%
+\contentsline {figure}{\numberline {10}{\ignorespaces \gls {hpwh} COP vs EnergyTake: Vacation Mode Recovery\relax }}{43}{figure.caption.15}%
+\contentsline {figure}{\numberline {11}{\ignorespaces \gls {hpwh} COP vs EnergyTake: Vacation Mode Recovery\relax }}{45}{figure.caption.16}%
+\contentsline {figure}{\numberline {12}{\ignorespaces \gls {hpwh} COP vs EnergyTake: Vacation Mode Recovery\relax }}{46}{figure.caption.18}%
+\contentsline {figure}{\numberline {13}{\ignorespaces \gls {hpwh} EnergyTake (top) and Energy\_in (bottom) line fitting\relax }}{51}{figure.caption.21}%
+\contentsline {figure}{\numberline {14}{\ignorespaces \gls {hpwh} COP vs EnergyTake: Vacation Mode Recovery\relax }}{52}{figure.caption.22}%
+\contentsline {figure}{\numberline {15}{\ignorespaces \gls {hpwh} Watts vs EnergyTake: Vacation Mode Recovery\relax }}{54}{figure.caption.23}%
+\contentsline {figure}{\numberline {16}{\ignorespaces \gls {hpwh} Watts vs EnergyTake: Vacation Mode Recovery\relax }}{55}{figure.caption.24}%
+\contentsline {figure}{\numberline {17}{\ignorespaces \gls {hpwh} EnergyTake vs Time: Vacation Mode Recovery\relax }}{56}{figure.caption.25}%
+\contentsline {figure}{\numberline {18}{\ignorespaces \gls {hpwh} Watts vs EnergyTake: Validation with \gls {emcb} Data\relax }}{57}{figure.caption.26}%
+\contentsline {figure}{\numberline {19}{\ignorespaces \gls {hpwh} Idle losses: Validation with \gls {emcb} Data\relax }}{59}{figure.caption.27}%
+\contentsline {figure}{\numberline {20}{\ignorespaces GLD and Physical Model Validation: Water Draw Validation\relax }}{63}{figure.caption.29}%
+\contentsline {figure}{\numberline {21}{\ignorespaces GLD and Physical Model Validation: Idle Losses\relax }}{64}{figure.caption.30}%
+\contentsline {figure}{\numberline {22}{\ignorespaces GLD and Physical Model Validation: Heating Sources Switching\relax }}{65}{figure.caption.31}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Water Demand Sample\relax }}{66}{figure.caption.32}%
+\contentsline {figure}{\numberline {24}{\ignorespaces \relax }}{67}{figure.caption.33}%
+\contentsline {figure}{\numberline {25}{\ignorespaces \relax }}{68}{figure.caption.34}%
+\contentsline {figure}{\numberline {26}{\ignorespaces \relax }}{69}{figure.caption.35}%
+\contentsline {figure}{\numberline {27}{\ignorespaces \relax }}{70}{figure.caption.36}%
+\contentsline {figure}{\numberline {28}{\ignorespaces \relax }}{71}{figure.caption.37}%
+\contentsline {figure}{\numberline {29}{\ignorespaces \relax }}{72}{figure.caption.38}%
+\contentsline {figure}{\numberline {30}{\ignorespaces \relax }}{73}{figure.caption.39}%
+\contentsline {figure}{\numberline {31}{\ignorespaces \relax }}{74}{figure.caption.40}%
+\contentsline {figure}{\numberline {32}{\ignorespaces \relax }}{75}{figure.caption.41}%
+\contentsline {figure}{\numberline {33}{\ignorespaces \relax }}{76}{figure.caption.42}%
+\contentsline {figure}{\numberline {34}{\ignorespaces \relax }}{77}{figure.caption.43}%
+\contentsline {figure}{\numberline {35}{\ignorespaces \relax }}{78}{figure.caption.44}%
+\contentsline {figure}{\numberline {36}{\ignorespaces \relax }}{79}{figure.caption.45}%
+\contentsline {figure}{\numberline {37}{\ignorespaces \relax }}{80}{figure.caption.46}%
+\contentsline {figure}{\numberline {38}{\ignorespaces \relax }}{81}{figure.caption.47}%
+\contentsline {figure}{\numberline {39}{\ignorespaces \relax }}{82}{figure.caption.48}%
+\contentsline {figure}{\numberline {40}{\ignorespaces \relax }}{83}{figure.caption.49}%
+\contentsline {figure}{\numberline {41}{\ignorespaces \relax }}{84}{figure.caption.50}%
+\contentsline {figure}{\numberline {42}{\ignorespaces \relax }}{85}{figure.caption.51}%
+\contentsline {figure}{\numberline {43}{\ignorespaces \relax }}{86}{figure.caption.52}%
+\contentsline {figure}{\numberline {44}{\ignorespaces \relax }}{87}{figure.caption.53}%
+\contentsline {figure}{\numberline {45}{\ignorespaces \relax }}{88}{figure.caption.54}%
+\contentsline {figure}{\numberline {46}{\ignorespaces \relax }}{89}{figure.caption.55}%
+\contentsline {figure}{\numberline {47}{\ignorespaces \relax }}{90}{figure.caption.56}%
+\contentsline {figure}{\numberline {48}{\ignorespaces \relax }}{91}{figure.caption.57}%
+\contentsline {figure}{\numberline {49}{\ignorespaces \relax }}{92}{figure.caption.58}%
+\contentsline {figure}{\numberline {50}{\ignorespaces \relax }}{93}{figure.caption.59}%
+\contentsline {figure}{\numberline {51}{\ignorespaces \relax }}{94}{figure.caption.60}%
+\contentsline {figure}{\numberline {52}{\ignorespaces \relax }}{95}{figure.caption.61}%
+\contentsline {figure}{\numberline {53}{\ignorespaces \relax }}{96}{figure.caption.62}%
+\contentsline {figure}{\numberline {54}{\ignorespaces \relax }}{97}{figure.caption.63}%
+\contentsline {figure}{\numberline {55}{\ignorespaces \relax }}{98}{figure.caption.64}%
+\contentsline {figure}{\numberline {56}{\ignorespaces \relax }}{99}{figure.caption.65}%
+\contentsline {figure}{\numberline {57}{\ignorespaces \relax }}{100}{figure.caption.66}%
+\contentsline {figure}{\numberline {58}{\ignorespaces \relax }}{101}{figure.caption.67}%
+\contentsline {figure}{\numberline {59}{\ignorespaces \relax }}{102}{figure.caption.68}%
+\contentsline {figure}{\numberline {60}{\ignorespaces \relax }}{103}{figure.caption.69}%
+\contentsline {figure}{\numberline {61}{\ignorespaces GridAPPS-D Model Conversion\relax }}{104}{figure.caption.70}%
+\contentsline {figure}{\numberline {62}{\ignorespaces File Conversion Processing Chart\relax }}{105}{figure.caption.71}%

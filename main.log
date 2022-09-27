@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.17)  21 SEP 2022 09:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.17)  27 SEP 2022 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -716,36 +716,67 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count329
 \@lastruleclass=\count330
 \@thisrulewidth=\dimen291
-) (/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count331
+\lst@gtempboxa=\box108
+\lst@token=\toks41
+\lst@length=\count332
+\lst@currlwidth=\dimen292
+\lst@column=\count333
+\lst@pos=\count334
+\lst@lostspace=\dimen293
+\lst@width=\dimen294
+\lst@newlines=\count335
+\lst@lineno=\count336
+\lst@maxwidth=\dimen295
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count337
+\lst@skipnumbers=\count338
+\lst@framebox=\box109
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen292
-\c@nlinenum=\count331
-\TeXr@lab=\toks41
+\rotheadsize=\dimen296
+\c@nlinenum=\count339
+\TeXr@lab=\toks42
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count332
-\l__pdf_internal_box=\box108
+\l__kernel_color_stack_int=\count340
+\l__pdf_internal_box=\box110
 )
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -783,17 +814,17 @@ LaTeX Font Info:    ... okay on input line 119.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count333
-\scratchdimen=\dimen293
-\scratchbox=\box109
-\nofMPsegments=\count334
-\nofMParguments=\count335
-\everyMPshowfont=\toks42
-\MPscratchCnt=\count336
-\MPscratchDim=\dimen294
-\MPnumerator=\count337
-\makeMPintoPDFobject=\count338
-\everyMPtoPDFconversion=\toks43
+\scratchcounter=\count341
+\scratchdimen=\dimen297
+\scratchbox=\box111
+\nofMPsegments=\count342
+\nofMParguments=\count343
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count344
+\MPscratchDim=\dimen298
+\MPnumerator=\count345
+\makeMPintoPDFobject=\count346
+\everyMPtoPDFconversion=\toks44
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -805,6 +836,7 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
@@ -812,8 +844,8 @@ Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box110
-Package hyperref Info: Link coloring ON on input line 119.
+\AtBeginShipoutBox=\box112
+Package hyperref Info: Link coloring ON on input line 130.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -824,21 +856,22 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count339
+\c@section@level=\count347
 )
-LaTeX Info: Redefining \ref on input line 119.
-LaTeX Info: Redefining \pageref on input line 119.
-LaTeX Info: Redefining \nameref on input line 119.
+LaTeX Info: Redefining \ref on input line 130.
+LaTeX Info: Redefining \pageref on input line 130.
+LaTeX Info: Redefining \nameref on input line 130.
 
 (./main.out) (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
-<Pictures/psuMCECSlogo_horiz.png, id=261, 953.06062pt x 196.48407pt>
+\c@lstlisting=\count348
+<Pictures/psuMCECSlogo_horiz.png, id=273, 953.06062pt x 196.48407pt>
 File: Pictures/psuMCECSlogo_horiz.png Graphic file (type png)
 <use Pictures/psuMCECSlogo_horiz.png>
-Package pdftex.def Info: Pictures/psuMCECSlogo_horiz.png  used on input line 14
-7.
+Package pdftex.def Info: Pictures/psuMCECSlogo_horiz.png  used on input line 15
+8.
 (pdftex.def)             Requested size: 252.94499pt x 52.14597pt.
  [1
 
@@ -855,7 +888,7 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 ...orespaces \relax }}{74}{figure.caption.40}
+l.31 ...orespaces \relax }}{72}{figure.caption.40}
                                                   % [1])
 \tf@lof=\write8
 \openout8 = `main.lof'.
@@ -867,7 +900,7 @@ l.31 ...orespaces \relax }}{74}{figure.caption.40}
 
 No file main.acr.
 [4] (./Fall2020.tex [5] [6]
-<Pictures/controlled_WH.png, id=478, 972.63374pt x 349.305pt>
+<Pictures/controlled_WH.png, id=490, 972.63374pt x 349.305pt>
 File: Pictures/controlled_WH.png Graphic file (type png)
 <use Pictures/controlled_WH.png>
 Package pdftex.def Info: Pictures/controlled_WH.png  used on input line 36.
@@ -937,7 +970,7 @@ Overfull \hbox (56.31105pt too wide) in paragraph at lines 165--166
  []
 
 [13] [14]) (./Spring2021.tex [15] [16]
-<Pictures/HPWH_wrong_behavior.png, id=577, 1489.565pt x 236.885pt>
+<Pictures/HPWH_wrong_behavior.png, id=589, 1489.565pt x 236.885pt>
 File: Pictures/HPWH_wrong_behavior.png Graphic file (type png)
 <use Pictures/HPWH_wrong_behavior.png>
 Package pdftex.def Info: Pictures/HPWH_wrong_behavior.png  used on input line 7
@@ -948,7 +981,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 78--79
  [][] 
  []
 
-<Pictures/EWH.png, id=579, 1489.565pt x 239.89626pt>
+<Pictures/EWH.png, id=591, 1489.565pt x 239.89626pt>
 File: Pictures/EWH.png Graphic file (type png)
 <use Pictures/EWH.png>
 Package pdftex.def Info: Pictures/EWH.png  used on input line 87.
@@ -982,7 +1015,7 @@ e (45\TS1/cmr/m/n/12 °\OT1/cmr/m/n/12 {109\TS1/cmr/m/n/12 °\OT1/cmr/m/n/12 F)
  []
 
 [20] [21]
-<Pictures/HPWH_working_principle.png, id=622, 519.9425pt x 241.90375pt>
+<Pictures/HPWH_working_principle.png, id=634, 519.9425pt x 241.90375pt>
 File: Pictures/HPWH_working_principle.png Graphic file (type png)
 <use Pictures/HPWH_working_principle.png>
 Package pdftex.def Info: Pictures/HPWH_working_principle.png  used on input lin
@@ -1005,18 +1038,18 @@ LaTeX Warning: Citation `r1' on page 25 undefined on input line 2.
 LaTeX Warning: Citation `Hudon' on page 25 undefined on input line 2.
 
 [25]
-<Pictures/cop_sim.png, id=655, 867.24pt x 578.16pt>
+<Pictures/cop_sim.png, id=667, 867.24pt x 578.16pt>
 File: Pictures/cop_sim.png Graphic file (type png)
 <use Pictures/cop_sim.png>
 Package pdftex.def Info: Pictures/cop_sim.png  used on input line 31.
 (pdftex.def)             Requested size: 387.00153pt x 257.99937pt.
  [26 <./Pictures/cop_sim.png>] [27] [28] [29] [30]
-<Pictures/cop_vs_time.png, id=693, 867.24pt x 578.16pt>
+<Pictures/cop_vs_time.png, id=705, 867.24pt x 578.16pt>
 File: Pictures/cop_vs_time.png Graphic file (type png)
 <use Pictures/cop_vs_time.png>
 Package pdftex.def Info: Pictures/cop_vs_time.png  used on input line 186.
 (pdftex.def)             Requested size: 387.00153pt x 257.99937pt.
-<Pictures/cop_vs_EnergyTake.png, id=696, 867.24pt x 578.16pt>
+<Pictures/cop_vs_EnergyTake.png, id=708, 867.24pt x 578.16pt>
 File: Pictures/cop_vs_EnergyTake.png Graphic file (type png)
 <use Pictures/cop_vs_EnergyTake.png>
 Package pdftex.def Info: Pictures/cop_vs_EnergyTake.png  used on input line 193
@@ -1025,27 +1058,27 @@ Package pdftex.def Info: Pictures/cop_vs_EnergyTake.png  used on input line 193
  [31] [32 <./Pictures/cop_vs_time.png>] [33 <./Pictures/cop_vs_EnergyTake.png>]
  [34] [35] [36] [37]
 [38] [39]
-<Pictures/cta_def.png, id=753, 1470.49374pt x 1050.92625pt>
+<Pictures/cta_def.png, id=765, 1470.49374pt x 1050.92625pt>
 File: Pictures/cta_def.png Graphic file (type png)
 <use Pictures/cta_def.png>
 Package pdftex.def Info: Pictures/cta_def.png  used on input line 406.
 (pdftex.def)             Requested size: 387.00153pt x 276.56984pt.
  [40] [41 <./Pictures/cta_def.png>]
-<Pictures/cop_vs_EnergyTake_75.png, id=774, 867.24pt x 578.16pt>
+<Pictures/cop_vs_EnergyTake_75.png, id=786, 867.24pt x 578.16pt>
 File: Pictures/cop_vs_EnergyTake_75.png Graphic file (type png)
 <use Pictures/cop_vs_EnergyTake_75.png>
 Package pdftex.def Info: Pictures/cop_vs_EnergyTake_75.png  used on input line 
 508.
 (pdftex.def)             Requested size: 387.00153pt x 257.99937pt.
  [42] [43 <./Pictures/cop_vs_EnergyTake_75.png>]
-<Pictures/cop_vs_EnergyTake_75_linefit.png, id=789, 867.24pt x 578.16pt>
+<Pictures/cop_vs_EnergyTake_75_linefit.png, id=801, 867.24pt x 578.16pt>
 File: Pictures/cop_vs_EnergyTake_75_linefit.png Graphic file (type png)
 <use Pictures/cop_vs_EnergyTake_75_linefit.png>
 Package pdftex.def Info: Pictures/cop_vs_EnergyTake_75_linefit.png  used on inp
 ut line 515.
 (pdftex.def)             Requested size: 430.00462pt x 286.67088pt.
  [44]
-<Pictures/cop_vs_EnergyTake_var.png, id=798, 867.24pt x 578.16pt>
+<Pictures/cop_vs_EnergyTake_var.png, id=810, 867.24pt x 578.16pt>
 File: Pictures/cop_vs_EnergyTake_var.png Graphic file (type png)
 <use Pictures/cop_vs_EnergyTake_var.png>
 Package pdftex.def Info: Pictures/cop_vs_EnergyTake_var.png  used on input line
@@ -1059,26 +1092,26 @@ l-umn named $\OML/cmm/m/it/12 time[]diff$
  []
 
 [47] [48] [49]
-<Pictures/energytake_watts_line_fit_nov.png, id=842, 867.24pt x 578.16pt>
+<Pictures/energytake_watts_line_fit_nov.png, id=854, 867.24pt x 578.16pt>
 File: Pictures/energytake_watts_line_fit_nov.png Graphic file (type png)
 <use Pictures/energytake_watts_line_fit_nov.png>
 Package pdftex.def Info: Pictures/energytake_watts_line_fit_nov.png  used on in
 put line 714.
 (pdftex.def)             Requested size: 387.00153pt x 257.99937pt.
-<Pictures/cop_nov.png, id=849, 867.24pt x 578.16pt>
+<Pictures/cop_nov.png, id=861, 867.24pt x 578.16pt>
 File: Pictures/cop_nov.png Graphic file (type png)
 <use Pictures/cop_nov.png>
 Package pdftex.def Info: Pictures/cop_nov.png  used on input line 725.
 (pdftex.def)             Requested size: 387.00153pt x 257.99937pt.
  [50] [51 <./Pictures/energytake_watts_line_fit_nov.png>]
 [52 <./Pictures/cop_nov.png>]
-<Pictures/watts_wh_relation_comp.png, id=875, 867.24pt x 578.16pt>
+<Pictures/watts_wh_relation_comp.png, id=887, 867.24pt x 578.16pt>
 File: Pictures/watts_wh_relation_comp.png Graphic file (type png)
 <use Pictures/watts_wh_relation_comp.png>
 Package pdftex.def Info: Pictures/watts_wh_relation_comp.png  used on input lin
 e 746.
 (pdftex.def)             Requested size: 425.70692pt x 283.80373pt.
-<Pictures/watts_wh_relation_heating_element.png, id=878, 867.24pt x 578.16pt>
+<Pictures/watts_wh_relation_heating_element.png, id=890, 867.24pt x 578.16pt>
 File: Pictures/watts_wh_relation_heating_element.png Graphic file (type png)
 <use Pictures/watts_wh_relation_heating_element.png>
 Package pdftex.def Info: Pictures/watts_wh_relation_heating_element.png  used o
@@ -1086,20 +1119,20 @@ n input line 753.
 (pdftex.def)             Requested size: 425.70692pt x 283.80373pt.
  [53] [54 <./Pictures/watts_wh_relation_comp.png>] [55 <./Pictures/watts_wh_rel
 ation_heating_element.png>]
-<Pictures/hpwh_idle_losses.png, id=902, 867.24pt x 578.16pt>
+<Pictures/hpwh_idle_losses.png, id=914, 867.24pt x 578.16pt>
 File: Pictures/hpwh_idle_losses.png Graphic file (type png)
 <use Pictures/hpwh_idle_losses.png>
 Package pdftex.def Info: Pictures/hpwh_idle_losses.png  used on input line 764.
 
 (pdftex.def)             Requested size: 425.70692pt x 283.80373pt.
  [56 <./Pictures/hpwh_idle_losses.png>]
-<Pictures/w_wh_validation.png, id=913, 867.24pt x 578.16pt>
+<Pictures/w_wh_validation.png, id=925, 867.24pt x 578.16pt>
 File: Pictures/w_wh_validation.png Graphic file (type png)
 <use Pictures/w_wh_validation.png>
 Package pdftex.def Info: Pictures/w_wh_validation.png  used on input line 790.
 (pdftex.def)             Requested size: 387.00153pt x 257.99937pt.
  [57 <./Pictures/w_wh_validation.png>] [58]
-<Pictures/idle_losses_val_validation.png, id=937, 867.24pt x 578.16pt>
+<Pictures/idle_losses_val_validation.png, id=949, 867.24pt x 578.16pt>
 File: Pictures/idle_losses_val_validation.png Graphic file (type png)
 <use Pictures/idle_losses_val_validation.png>
 Package pdftex.def Info: Pictures/idle_losses_val_validation.png  used on input
@@ -1117,7 +1150,7 @@ Overfull \hbox (6.43094pt too wide) in paragraph at lines 2--3
  []
 
 [62]
-<Pictures/Temperature_validation.png, id=982, 867.24pt x 578.16pt>
+<Pictures/Temperature_validation.png, id=994, 867.24pt x 578.16pt>
 File: Pictures/Temperature_validation.png Graphic file (type png)
 <use Pictures/Temperature_validation.png>
 Package pdftex.def Info: Pictures/Temperature_validation.png  used on input lin
@@ -1129,7 +1162,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 7--8
  []
 
 [63 <./Pictures/Temperature_validation.png>]
-<Pictures/idle_losses.png, id=989, 1204.5pt x 804.00375pt>
+<Pictures/idle_losses.png, id=1001, 1204.5pt x 804.00375pt>
 File: Pictures/idle_losses.png Graphic file (type png)
 <use Pictures/idle_losses.png>
 Package pdftex.def Info: Pictures/idle_losses.png  used on input line 16.
@@ -1140,7 +1173,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 16--17
  []
 
 [64 <./Pictures/idle_losses.png>]
-<Pictures/heating_element_switching.png, id=996, 1198.4775pt x 807.015pt>
+<Pictures/heating_element_switching.png, id=1008, 1198.4775pt x 807.015pt>
 File: Pictures/heating_element_switching.png Graphic file (type png)
 <use Pictures/heating_element_switching.png>
 Package pdftex.def Info: Pictures/heating_element_switching.png  used on input 
@@ -1152,7 +1185,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 25--26
  []
 
 [65 <./Pictures/heating_element_switching.png>]
-<Pictures/water_demand_sample.png, id=1003, 1205.50375pt x 955.57pt>
+<Pictures/water_demand_sample.png, id=1015, 1205.50375pt x 955.57pt>
 File: Pictures/water_demand_sample.png Graphic file (type png)
 <use Pictures/water_demand_sample.png>
 Package pdftex.def Info: Pictures/water_demand_sample.png  used on input line 3
@@ -1164,7 +1197,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 33--34
  []
 
 [66 <./Pictures/water_demand_sample.png>]
-<Pictures/house_profile_sample.png, id=1011, 1201.48875pt x 806.01125pt>
+<Pictures/house_profile_sample.png, id=1023, 1201.48875pt x 806.01125pt>
 File: Pictures/house_profile_sample.png Graphic file (type png)
 <use Pictures/house_profile_sample.png>
 Package pdftex.def Info: Pictures/house_profile_sample.png  used on input line 
@@ -1181,7 +1214,7 @@ Overfull \hbox (351.36226pt too wide) in paragraph at lines 49--50
 ======================== 
  []
 
-<Pictures/basecase_single_phase_652_power.png, id=1018, 867.24pt x 578.16pt>
+<Pictures/basecase_single_phase_652_power.png, id=1030, 867.24pt x 578.16pt>
 File: Pictures/basecase_single_phase_652_power.png Graphic file (type png)
 <use Pictures/basecase_single_phase_652_power.png>
 Package pdftex.def Info: Pictures/basecase_single_phase_652_power.png  used on 
@@ -1193,7 +1226,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 53--54
  []
 
 [68 <./Pictures/basecase_single_phase_652_power.png>]
-<Pictures/basecase_two_phase_684_power.png, id=1025, 867.24pt x 578.16pt>
+<Pictures/basecase_two_phase_684_power.png, id=1037, 867.24pt x 578.16pt>
 File: Pictures/basecase_two_phase_684_power.png Graphic file (type png)
 <use Pictures/basecase_two_phase_684_power.png>
 Package pdftex.def Info: Pictures/basecase_two_phase_684_power.png  used on inp
@@ -1205,7 +1238,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 62--63
  []
 
 [69 <./Pictures/basecase_two_phase_684_power.png>]
-<Pictures/basecase_three_phase_633_power.png, id=1032, 867.24pt x 578.16pt>
+<Pictures/basecase_three_phase_633_power.png, id=1044, 867.24pt x 578.16pt>
 File: Pictures/basecase_three_phase_633_power.png Graphic file (type png)
 <use Pictures/basecase_three_phase_633_power.png>
 Package pdftex.def Info: Pictures/basecase_three_phase_633_power.png  used on i
@@ -1217,7 +1250,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 71--72
  []
 
 [70 <./Pictures/basecase_three_phase_633_power.png>]
-<Pictures/twenty_single_phase_652_power.png, id=1039, 867.24pt x 578.16pt>
+<Pictures/twenty_single_phase_652_power.png, id=1051, 867.24pt x 578.16pt>
 File: Pictures/twenty_single_phase_652_power.png Graphic file (type png)
 <use Pictures/twenty_single_phase_652_power.png>
 Package pdftex.def Info: Pictures/twenty_single_phase_652_power.png  used on in
@@ -1229,7 +1262,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 80--81
  []
 
 [71 <./Pictures/twenty_single_phase_652_power.png>]
-<Pictures/twenty_two_phase_684_power.png, id=1046, 867.24pt x 578.16pt>
+<Pictures/twenty_two_phase_684_power.png, id=1058, 867.24pt x 578.16pt>
 File: Pictures/twenty_two_phase_684_power.png Graphic file (type png)
 <use Pictures/twenty_two_phase_684_power.png>
 Package pdftex.def Info: Pictures/twenty_two_phase_684_power.png  used on input
@@ -1241,7 +1274,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 89--90
  []
 
 [72 <./Pictures/twenty_two_phase_684_power.png>]
-<Pictures/twenty_three_phase_633_power.png, id=1054, 867.24pt x 578.16pt>
+<Pictures/twenty_three_phase_633_power.png, id=1066, 867.24pt x 578.16pt>
 File: Pictures/twenty_three_phase_633_power.png Graphic file (type png)
 <use Pictures/twenty_three_phase_633_power.png>
 Package pdftex.def Info: Pictures/twenty_three_phase_633_power.png  used on inp
@@ -1252,7 +1285,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 98--99
  [][] 
  []
 
-<Pictures/fourty_single_phase_652_power.png, id=1055, 867.24pt x 578.16pt>
+<Pictures/fourty_single_phase_652_power.png, id=1067, 867.24pt x 578.16pt>
 File: Pictures/fourty_single_phase_652_power.png Graphic file (type png)
 <use Pictures/fourty_single_phase_652_power.png>
 Package pdftex.def Info: Pictures/fourty_single_phase_652_power.png  used on in
@@ -1265,7 +1298,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 108--109
 
 [73 <./Pictures/twenty_three_phase_633_power.png>] [74 <./Pictures/fourty_singl
 e_phase_652_power.png>]
-<Pictures/fourty_two_phase_684_power.png, id=1068, 867.24pt x 578.16pt>
+<Pictures/fourty_two_phase_684_power.png, id=1080, 867.24pt x 578.16pt>
 File: Pictures/fourty_two_phase_684_power.png Graphic file (type png)
 <use Pictures/fourty_two_phase_684_power.png>
 Package pdftex.def Info: Pictures/fourty_two_phase_684_power.png  used on input
@@ -1277,7 +1310,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 117--118
  []
 
 [75 <./Pictures/fourty_two_phase_684_power.png>]
-<Pictures/fourty_three_phase_633_power.png, id=1075, 867.24pt x 578.16pt>
+<Pictures/fourty_three_phase_633_power.png, id=1087, 867.24pt x 578.16pt>
 File: Pictures/fourty_three_phase_633_power.png Graphic file (type png)
 <use Pictures/fourty_three_phase_633_power.png>
 Package pdftex.def Info: Pictures/fourty_three_phase_633_power.png  used on inp
@@ -1289,7 +1322,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 126--127
  []
 
 [76 <./Pictures/fourty_three_phase_633_power.png>]
-<Pictures/sixty_single_phase_652_power.png, id=1082, 867.24pt x 578.16pt>
+<Pictures/sixty_single_phase_652_power.png, id=1094, 867.24pt x 578.16pt>
 File: Pictures/sixty_single_phase_652_power.png Graphic file (type png)
 <use Pictures/sixty_single_phase_652_power.png>
 Package pdftex.def Info: Pictures/sixty_single_phase_652_power.png  used on inp
@@ -1301,7 +1334,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 137--138
  []
 
 [77 <./Pictures/sixty_single_phase_652_power.png>]
-<Pictures/sixty_two_phase_684_power.png, id=1089, 867.24pt x 578.16pt>
+<Pictures/sixty_two_phase_684_power.png, id=1101, 867.24pt x 578.16pt>
 File: Pictures/sixty_two_phase_684_power.png Graphic file (type png)
 <use Pictures/sixty_two_phase_684_power.png>
 Package pdftex.def Info: Pictures/sixty_two_phase_684_power.png  used on input 
@@ -1313,7 +1346,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 146--147
  []
 
 [78 <./Pictures/sixty_two_phase_684_power.png>]
-<Pictures/sixty_three_phase_633_power.png, id=1097, 867.24pt x 578.16pt>
+<Pictures/sixty_three_phase_633_power.png, id=1109, 867.24pt x 578.16pt>
 File: Pictures/sixty_three_phase_633_power.png Graphic file (type png)
 <use Pictures/sixty_three_phase_633_power.png>
 Package pdftex.def Info: Pictures/sixty_three_phase_633_power.png  used on inpu
@@ -1325,7 +1358,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 155--156
  []
 
 [79 <./Pictures/sixty_three_phase_633_power.png>]
-<Pictures/eighty_single_phase_652_power.png, id=1104, 867.24pt x 578.16pt>
+<Pictures/eighty_single_phase_652_power.png, id=1116, 867.24pt x 578.16pt>
 File: Pictures/eighty_single_phase_652_power.png Graphic file (type png)
 <use Pictures/eighty_single_phase_652_power.png>
 Package pdftex.def Info: Pictures/eighty_single_phase_652_power.png  used on in
@@ -1337,7 +1370,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 167--168
  []
 
 [80 <./Pictures/eighty_single_phase_652_power.png>]
-<Pictures/eighty_two_phase_684_power.png, id=1111, 867.24pt x 578.16pt>
+<Pictures/eighty_two_phase_684_power.png, id=1124, 867.24pt x 578.16pt>
 File: Pictures/eighty_two_phase_684_power.png Graphic file (type png)
 <use Pictures/eighty_two_phase_684_power.png>
 Package pdftex.def Info: Pictures/eighty_two_phase_684_power.png  used on input
@@ -1349,7 +1382,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 176--177
  []
 
 [81 <./Pictures/eighty_two_phase_684_power.png>]
-<Pictures/eighty_three_phase_633_power.png, id=1119, 867.24pt x 578.16pt>
+<Pictures/eighty_three_phase_633_power.png, id=1131, 867.24pt x 578.16pt>
 File: Pictures/eighty_three_phase_633_power.png Graphic file (type png)
 <use Pictures/eighty_three_phase_633_power.png>
 Package pdftex.def Info: Pictures/eighty_three_phase_633_power.png  used on inp
@@ -1361,7 +1394,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 185--186
  []
 
 [82 <./Pictures/eighty_three_phase_633_power.png>]
-<Pictures/hundred_single_phase_652_power.png, id=1126, 867.24pt x 578.16pt>
+<Pictures/hundred_single_phase_652_power.png, id=1138, 867.24pt x 578.16pt>
 File: Pictures/hundred_single_phase_652_power.png Graphic file (type png)
 <use Pictures/hundred_single_phase_652_power.png>
 Package pdftex.def Info: Pictures/hundred_single_phase_652_power.png  used on i
@@ -1373,7 +1406,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 198--199
  []
 
 [83 <./Pictures/hundred_single_phase_652_power.png>]
-<Pictures/hundred_two_phase_684_power.png, id=1133, 867.24pt x 578.16pt>
+<Pictures/hundred_two_phase_684_power.png, id=1145, 867.24pt x 578.16pt>
 File: Pictures/hundred_two_phase_684_power.png Graphic file (type png)
 <use Pictures/hundred_two_phase_684_power.png>
 Package pdftex.def Info: Pictures/hundred_two_phase_684_power.png  used on inpu
@@ -1385,7 +1418,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 207--208
  []
 
 [84 <./Pictures/hundred_two_phase_684_power.png>]
-<Pictures/hundred_three_phase_633_power.png, id=1141, 867.24pt x 578.16pt>
+<Pictures/hundred_three_phase_633_power.png, id=1153, 867.24pt x 578.16pt>
 File: Pictures/hundred_three_phase_633_power.png Graphic file (type png)
 <use Pictures/hundred_three_phase_633_power.png>
 Package pdftex.def Info: Pictures/hundred_three_phase_633_power.png  used on in
@@ -1402,7 +1435,7 @@ Overfull \hbox (351.36226pt too wide) in paragraph at lines 223--224
 ======================== 
  []
 
-<Pictures/basecase_single_phase_652_volt.png, id=1142, 867.24pt x 578.16pt>
+<Pictures/basecase_single_phase_652_volt.png, id=1154, 867.24pt x 578.16pt>
 File: Pictures/basecase_single_phase_652_volt.png Graphic file (type png)
 <use Pictures/basecase_single_phase_652_volt.png>
 Package pdftex.def Info: Pictures/basecase_single_phase_652_volt.png  used on i
@@ -1415,7 +1448,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 227--228
 
 [85 <./Pictures/hundred_three_phase_633_power.png>] [86 <./Pictures/basecase_si
 ngle_phase_652_volt.png>]
-<Pictures/basecase_two_phase_684_volt.png, id=1155, 867.24pt x 578.16pt>
+<Pictures/basecase_two_phase_684_volt.png, id=1167, 867.24pt x 578.16pt>
 File: Pictures/basecase_two_phase_684_volt.png Graphic file (type png)
 <use Pictures/basecase_two_phase_684_volt.png>
 Package pdftex.def Info: Pictures/basecase_two_phase_684_volt.png  used on inpu
@@ -1427,7 +1460,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 236--237
  []
 
 [87 <./Pictures/basecase_two_phase_684_volt.png>]
-<Pictures/basecase_three_phase_633_volt.png, id=1162, 867.24pt x 578.16pt>
+<Pictures/basecase_three_phase_633_volt.png, id=1174, 867.24pt x 578.16pt>
 File: Pictures/basecase_three_phase_633_volt.png Graphic file (type png)
 <use Pictures/basecase_three_phase_633_volt.png>
 Package pdftex.def Info: Pictures/basecase_three_phase_633_volt.png  used on in
@@ -1439,7 +1472,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 245--246
  []
 
 [88 <./Pictures/basecase_three_phase_633_volt.png>]
-<Pictures/twenty_single_phase_652_volt.png, id=1169, 867.24pt x 578.16pt>
+<Pictures/twenty_single_phase_652_volt.png, id=1181, 867.24pt x 578.16pt>
 File: Pictures/twenty_single_phase_652_volt.png Graphic file (type png)
 <use Pictures/twenty_single_phase_652_volt.png>
 Package pdftex.def Info: Pictures/twenty_single_phase_652_volt.png  used on inp
@@ -1451,7 +1484,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 254--255
  []
 
 [89 <./Pictures/twenty_single_phase_652_volt.png>]
-<Pictures/twenty_two_phase_684_volt.png, id=1176, 867.24pt x 578.16pt>
+<Pictures/twenty_two_phase_684_volt.png, id=1188, 867.24pt x 578.16pt>
 File: Pictures/twenty_two_phase_684_volt.png Graphic file (type png)
 <use Pictures/twenty_two_phase_684_volt.png>
 Package pdftex.def Info: Pictures/twenty_two_phase_684_volt.png  used on input 
@@ -1463,7 +1496,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 263--264
  []
 
 [90 <./Pictures/twenty_two_phase_684_volt.png>]
-<Pictures/twenty_three_phase_633_volt.png, id=1184, 867.24pt x 578.16pt>
+<Pictures/twenty_three_phase_633_volt.png, id=1196, 867.24pt x 578.16pt>
 File: Pictures/twenty_three_phase_633_volt.png Graphic file (type png)
 <use Pictures/twenty_three_phase_633_volt.png>
 Package pdftex.def Info: Pictures/twenty_three_phase_633_volt.png  used on inpu
@@ -1474,7 +1507,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 272--273
  [][] 
  []
 
-<Pictures/fourty_single_phase_652_volt.png, id=1185, 867.24pt x 578.16pt>
+<Pictures/fourty_single_phase_652_volt.png, id=1197, 867.24pt x 578.16pt>
 File: Pictures/fourty_single_phase_652_volt.png Graphic file (type png)
 <use Pictures/fourty_single_phase_652_volt.png>
 Package pdftex.def Info: Pictures/fourty_single_phase_652_volt.png  used on inp
@@ -1487,7 +1520,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 282--283
 
 [91 <./Pictures/twenty_three_phase_633_volt.png>] [92 <./Pictures/fourty_single
 _phase_652_volt.png>]
-<Pictures/fourty_two_phase_684_volt.png, id=1198, 867.24pt x 578.16pt>
+<Pictures/fourty_two_phase_684_volt.png, id=1210, 867.24pt x 578.16pt>
 File: Pictures/fourty_two_phase_684_volt.png Graphic file (type png)
 <use Pictures/fourty_two_phase_684_volt.png>
 Package pdftex.def Info: Pictures/fourty_two_phase_684_volt.png  used on input 
@@ -1499,7 +1532,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 291--292
  []
 
 [93 <./Pictures/fourty_two_phase_684_volt.png>]
-<Pictures/fourty_three_phase_633_volt.png, id=1205, 867.24pt x 578.16pt>
+<Pictures/fourty_three_phase_633_volt.png, id=1217, 867.24pt x 578.16pt>
 File: Pictures/fourty_three_phase_633_volt.png Graphic file (type png)
 <use Pictures/fourty_three_phase_633_volt.png>
 Package pdftex.def Info: Pictures/fourty_three_phase_633_volt.png  used on inpu
@@ -1511,7 +1544,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 300--301
  []
 
 [94 <./Pictures/fourty_three_phase_633_volt.png>]
-<Pictures/sixty_single_phase_652_volt.png, id=1212, 867.24pt x 578.16pt>
+<Pictures/sixty_single_phase_652_volt.png, id=1224, 867.24pt x 578.16pt>
 File: Pictures/sixty_single_phase_652_volt.png Graphic file (type png)
 <use Pictures/sixty_single_phase_652_volt.png>
 Package pdftex.def Info: Pictures/sixty_single_phase_652_volt.png  used on inpu
@@ -1523,7 +1556,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 311--312
  []
 
 [95 <./Pictures/sixty_single_phase_652_volt.png>]
-<Pictures/sixty_two_phase_684_volt.png, id=1219, 867.24pt x 578.16pt>
+<Pictures/sixty_two_phase_684_volt.png, id=1231, 867.24pt x 578.16pt>
 File: Pictures/sixty_two_phase_684_volt.png Graphic file (type png)
 <use Pictures/sixty_two_phase_684_volt.png>
 Package pdftex.def Info: Pictures/sixty_two_phase_684_volt.png  used on input l
@@ -1535,7 +1568,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 320--321
  []
 
 [96 <./Pictures/sixty_two_phase_684_volt.png>]
-<Pictures/sixty_three_phase_633_volt.png, id=1227, 867.24pt x 578.16pt>
+<Pictures/sixty_three_phase_633_volt.png, id=1239, 867.24pt x 578.16pt>
 File: Pictures/sixty_three_phase_633_volt.png Graphic file (type png)
 <use Pictures/sixty_three_phase_633_volt.png>
 Package pdftex.def Info: Pictures/sixty_three_phase_633_volt.png  used on input
@@ -1547,7 +1580,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 329--330
  []
 
 [97 <./Pictures/sixty_three_phase_633_volt.png>]
-<Pictures/eighty_single_phase_652_volt.png, id=1234, 867.24pt x 578.16pt>
+<Pictures/eighty_single_phase_652_volt.png, id=1246, 867.24pt x 578.16pt>
 File: Pictures/eighty_single_phase_652_volt.png Graphic file (type png)
 <use Pictures/eighty_single_phase_652_volt.png>
 Package pdftex.def Info: Pictures/eighty_single_phase_652_volt.png  used on inp
@@ -1559,7 +1592,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 341--342
  []
 
 [98 <./Pictures/eighty_single_phase_652_volt.png>]
-<Pictures/eighty_two_phase_684_volt.png, id=1241, 867.24pt x 578.16pt>
+<Pictures/eighty_two_phase_684_volt.png, id=1253, 867.24pt x 578.16pt>
 File: Pictures/eighty_two_phase_684_volt.png Graphic file (type png)
 <use Pictures/eighty_two_phase_684_volt.png>
 Package pdftex.def Info: Pictures/eighty_two_phase_684_volt.png  used on input 
@@ -1571,7 +1604,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 350--351
  []
 
 [99 <./Pictures/eighty_two_phase_684_volt.png>]
-<Pictures/eighty_three_phase_633_volt.png, id=1248, 867.24pt x 578.16pt>
+<Pictures/eighty_three_phase_633_volt.png, id=1260, 867.24pt x 578.16pt>
 File: Pictures/eighty_three_phase_633_volt.png Graphic file (type png)
 <use Pictures/eighty_three_phase_633_volt.png>
 Package pdftex.def Info: Pictures/eighty_three_phase_633_volt.png  used on inpu
@@ -1583,7 +1616,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 359--360
  []
 
 [100 <./Pictures/eighty_three_phase_633_volt.png>]
-<Pictures/hundred_single_phase_652_volt.png, id=1255, 867.24pt x 578.16pt>
+<Pictures/hundred_single_phase_652_volt.png, id=1268, 867.24pt x 578.16pt>
 File: Pictures/hundred_single_phase_652_volt.png Graphic file (type png)
 <use Pictures/hundred_single_phase_652_volt.png>
 Package pdftex.def Info: Pictures/hundred_single_phase_652_volt.png  used on in
@@ -1595,7 +1628,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 372--373
  []
 
 [101 <./Pictures/hundred_single_phase_652_volt.png>]
-<Pictures/hundred_two_phase_684_volt.png, id=1263, 867.24pt x 578.16pt>
+<Pictures/hundred_two_phase_684_volt.png, id=1275, 867.24pt x 578.16pt>
 File: Pictures/hundred_two_phase_684_volt.png Graphic file (type png)
 <use Pictures/hundred_two_phase_684_volt.png>
 Package pdftex.def Info: Pictures/hundred_two_phase_684_volt.png  used on input
@@ -1607,7 +1640,7 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 381--382
  []
 
 [102 <./Pictures/hundred_two_phase_684_volt.png>]
-<Pictures/hundred_three_phase_633_volt.png, id=1271, 867.24pt x 578.16pt>
+<Pictures/hundred_three_phase_633_volt.png, id=1283, 867.24pt x 578.16pt>
 File: Pictures/hundred_three_phase_633_volt.png Graphic file (type png)
 <use Pictures/hundred_three_phase_633_volt.png>
 Package pdftex.def Info: Pictures/hundred_three_phase_633_volt.png  used on inp
@@ -1619,49 +1652,54 @@ Overfull \hbox (43.00308pt too wide) in paragraph at lines 390--391
  []
 
 [103 <./Pictures/hundred_three_phase_633_volt.png>]) (./Summer2022.tex
-<Pictures/model_conversion.png, id=1278, 2142.0025pt x 795.97375pt>
+<Pictures/model_conversion.png, id=1290, 2142.0025pt x 795.97375pt>
 File: Pictures/model_conversion.png Graphic file (type png)
 <use Pictures/model_conversion.png>
 Package pdftex.def Info: Pictures/model_conversion.png  used on input line 7.
 (pdftex.def)             Requested size: 301.00192pt x 111.84851pt.
  [104 <./Pictures/model_conversion.png>]
-<Pictures/glm_conversion_tool.png, id=1288, 1147.28625pt x 1073.00874pt>
+<Pictures/glm_conversion_tool.png, id=1300, 1147.28625pt x 1073.00874pt>
 File: Pictures/glm_conversion_tool.png Graphic file (type png)
 <use Pictures/glm_conversion_tool.png>
 Package pdftex.def Info: Pictures/glm_conversion_tool.png  used on input line 3
 8.
 (pdftex.def)             Requested size: 301.00192pt x 281.51347pt.
-) [105 <./Pictures/glm_conversion_tool.png>]
-[106]
+ [105 <./Pictures/glm_conversion_tool.png>]
+[106] [107] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+Overfull \hbox (0.10355pt too wide) in paragraph at lines 104--106
+[]\OT1/cmr/m/n/12 The [][]Ditto-CLI[][] tool does most of the work for those wh
+o want to con-vert GridLAB-
+ []
+
+[108]) [109]
 No file main.bbl.
 (./Bios.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 250.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 250.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 261.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 261.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 250.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 250.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 261.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 261.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 53A7CC5EB74AD67EA15A105D356976B2;4627.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 684DEB7DD5D70E27A48AF74BE7A8A304;4397
-(rerunfilecheck)             After:  AC480ECCFF939EF844D5B2458F4D2671;4479.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 250.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 261.
  ) 
 Here is how much of TeX's memory you used:
- 15942 strings out of 483183
- 250190 string characters out of 5966292
- 661419 words of memory out of 5000000
- 30249 multiletter control sequences out of 15000+600000
+ 17810 strings out of 483183
+ 274289 string characters out of 5966292
+ 857668 words of memory out of 5000000
+ 32078 multiletter control sequences out of 15000+600000
  541841 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,16n,96p,1008b,702s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,16n,97p,1008b,1296s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{glo:emcb} has been referenced but does not exist,
  replaced by a fixed one
 
@@ -1685,10 +1723,10 @@ fonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (107 pages, 5906155 bytes).
+Output written on main.pdf (110 pages, 5913702 bytes).
 PDF statistics:
- 1434 PDF objects out of 1440 (max. 8388607)
- 1149 compressed objects within 12 object streams
- 296 named destinations out of 1000 (max. 500000)
- 823 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1485 PDF objects out of 1728 (max. 8388607)
+ 1196 compressed objects within 12 object streams
+ 315 named destinations out of 1000 (max. 500000)
+ 847 words of extra memory for PDF output out of 10000 (max. 10000000)
 

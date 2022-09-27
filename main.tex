@@ -40,7 +40,7 @@
 \usepackage{tabularx}
 \usepackage{arydshln}
 \usepackage{titlesec} % To control section colors
-\usepackage{color}
+\usepackage{xcolor}
 
 \usepackage[colorlinks = true,
             linkcolor = blue,
@@ -56,6 +56,17 @@
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
 \usepackage{booktabs}
+\usepackage{listings}
+\lstset{frame=tb,
+  language=bash,
+  breaklines=true,
+  showstringspaces=false,
+  columns=flexible,
+  numbers=none,
+  commentstyle=\color{black},
+  stringstyle=\color{black},
+  tabsize=3
+}
 
 \graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
 
